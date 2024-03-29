@@ -1,9 +1,9 @@
 {
-  "name": "renovate-config-mockline",
+  "name": "renovate-config-hugorcd",
   "version": "0.0.0",
-  "description": "Renovate Bot config for Mockline repositories",
+  "description": "Renovate bot config for hugorcd repositories",
   "license": "MIT",
-  "repository": "mockline/renovate-config",
+  "repository": "hugorcd/renovate-config",
   "scripts": {
     "test": "renovate-config-validator ./default.json"
   },
