@@ -4,6 +4,7 @@
     "group:allNonMajor",
     ":semanticCommitTypeAll(chore)"
   ],
+  "platformAutomerge": false,
   "rangeStrategy": "bump",
   "npm": {
     "commitMessageTopic": "{{prettyDepType}} {{depName}}"
