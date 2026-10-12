@@ -5,6 +5,8 @@
     ":semanticCommitTypeAll(chore)"
   ],
   "rangeStrategy": "bump",
+  "minimumReleaseAge": "2 days",
+  "internalChecksFilter": "strict",
   "npm": {
     "commitMessageTopic": "{{prettyDepType}} {{depName}}"
   },
